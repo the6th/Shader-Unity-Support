@@ -1,3 +1,6 @@
 packages/
 *.suo
 *.user
+.vs/
+bin/
+obj/
